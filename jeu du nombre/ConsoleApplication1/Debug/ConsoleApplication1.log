@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\session\desktop\code\c\exo\jeu du nombre\consoleapplication1\consoleapplication1.cpp(36): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\session\desktop\code\c\exo\jeu du nombre\consoleapplication1\consoleapplication1.cpp(80): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\session\Desktop\Code\C\exo\jeu du nombre\Debug\ConsoleApplication1.exe
